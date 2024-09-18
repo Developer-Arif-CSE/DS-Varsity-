@@ -1,0 +1,5 @@
+
+ Enter the disk number:
+ Disk 1 more from A to B
+ 2 Disk more from A to C
+ Disk 1 more from B to C
